@@ -10,11 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 * Item 1
-* Item 2
-  * Item 2a
-  * View Complete Wireframe at 
-
-  ![GitHub Logo](/spendermap/Wireframe - CSV Upload.png)
+* ![GitHub Logo](https://github.com/acardelle/spendermap/blob/master/Wireframe%20-%20CSV%20Upload.png)
 Format: ![Alt Text](url)
 
 ### Project Tracker
