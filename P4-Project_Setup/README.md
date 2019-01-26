@@ -7,6 +7,6 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[GitHub - SpenderMap](https://github.com/acardelle/spendermap)
+* [GitHub - SpenderMap](https://github.com/acardelle/spendermap)
 
-[Hello World!](https://acardelle.github.io/spendermap/)
+* [Hello World!](https://acardelle.github.io/spendermap/)
